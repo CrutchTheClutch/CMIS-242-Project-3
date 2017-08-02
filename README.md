@@ -1,5 +1,5 @@
 # CMIS-242-Project-3
-#### This project compares the efficieny of iterative and recursive solutions.
+#### This project compares the efficiency of iterative and recursive solutions.
 
 This program allows you to calculate the sequence of (n-1)*2 + (n-2) both Iteratively and Recursively.
 
